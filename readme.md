@@ -27,3 +27,5 @@
 1️⃣ **give_raise()** 可以正常处理运行，处理结果类实例 **give_raise.salary == 14000** ，通过测试
 <br>
 2️⃣  **give_raise('6000')** 可以正常处理运行，处理结果类实例 **give_raise.salary == 15000** ，通过测试
+
+测试：优化 readme
